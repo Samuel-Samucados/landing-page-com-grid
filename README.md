@@ -1,2 +1,2 @@
-# landing-page-com-grid
-Apenas um modelo de site
+# landing-page-com-grid-agencia-xyz
+Estrutura inicial do Projeto de Landing Page com Grid.
